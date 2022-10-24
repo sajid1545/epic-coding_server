@@ -1,72 +1,93 @@
 [
 	{
 		"id": "6356b783a0b3c4b1b1aefa3d",
-		"title": "",
+		"title": "The Complete 2022 Web Development Bootcamp",
 		"price": "5,005.28",
 		"picture": "http://placehold.it/32x32",
-		"ratings": 4,
+		"ratings": 4.7,
 		"language": "English",
-		"instructor": "",
-		"about": ""
+		"instructor": "Angela.Yu",
+		"about": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps",
+		"overview1": "You will build 16 web development projects for your portfolio, ready to apply for junior developer jobs.",
+		"overview2": "You will learn the latest technologies, including Javascript, React, Node and even Web3 development.",
+		"overview3": "You will master both front and back-end development, becoming a full-stack developer by the end of the course."
 	},
 	{
 		"id": "6356b783e6fe1a4da353c088",
-		"title": "",
+		"title": "React - The Complete Guide",
 		"price": "4,458.53",
 		"picture": "http://placehold.it/32x32",
-		"ratings": 4,
+		"ratings": 5,
 		"language": "English",
-		"instructor": "",
-		"about": ""
+		"instructor": "Maximilian Schwarzmüller",
+		"about": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!",
+		"overview1": "Build powerful, fast, user-friendly and reactive web apps",
+		"overview2": "Provide amazing user experiences by leveraging the power of JavaScript with ease",
+		"overview3": "Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors you can find in web dev right now"
 	},
 	{
 		"id": "6356b783b6c4d275629e2fe2",
-		"title": "",
+		"title": "Complete Python Programming Course",
 		"price": "7,603.33",
 		"picture": "http://placehold.it/32x32",
 		"ratings": 4,
 		"language": "English",
-		"instructor": "",
-		"about": ""
+		"instructor": "Avinash Jain",
+		"about": "Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI, Python Data Analysis, and more!",
+		"overview1": "Create their own Python Programs",
+		"overview2": "Become an experienced Python Programmer",
+		"overview3": "Parse the Web and Create their own Games"
 	},
 	{
 		"id": "6356b783534415a230f0534f",
-		"title": "",
+		"title": "Machine Learning",
 		"price": "6,271.51",
 		"picture": "http://placehold.it/32x32",
-		"ratings": 4,
+		"ratings": 5,
 		"language": "English",
-		"instructor": "",
-		"about": ""
+		"instructor": "Kirill Eremenko",
+		"about": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
+		"overview1": "Master Machine Learning on Python & R",
+		"overview2": " Have a great intuition of many Machine Learning models",
+		"overview3": "Make accurate predictions"
 	},
 	{
 		"id": "6356b7832f4d57f5f47100d2",
-		"title": "",
+		"title": "Animation for Illustration",
 		"price": "4,932.02",
 		"picture": "http://placehold.it/32x32",
 		"ratings": 4,
 		"language": "English",
-		"instructor": "",
-		"about": ""
+		"instructor": "Libby VanderPloeg",
+		"about": "Jump into the world of animation with illustrator Libby VanderPloeg — using only Procreate and Photoshop! ",
+		"overview1": "Create your initial sketch with an eye toward animation",
+		"overview2": "Use Procreate layers to plan movement and motion",
+		"overview3": "Activate your animation in Photoshop with just a few clicks"
 	},
 	{
 		"id": "6356b783877eca39f496399b",
-		"title": "",
+		"title": "Blockchain Programming",
 		"price": "5,672.35",
 		"picture": "http://placehold.it/32x32",
 		"ratings": 4,
 		"language": "English",
-		"instructor": "",
-		"about": ""
+		"instructor": "Levi Barnes",
+		"about": "Build a blockchain and cryptocurrency from scratch using Python",
+		"overview1": "Build a cryptocoin from scratch using Python",
+		"overview2": "Digitally sign messages and verify signatures",
+		"overview3": "Design and build a tamper-proof blockchain to store any kind of data"
 	},
 	{
 		"id": "6356b783477665f6201c87ac",
-		"title": "",
+		"title": "Linux Administration Bootcamp",
 		"price": "4,379.93",
 		"picture": "http://placehold.it/32x32",
-		"ratings": 4,
+		"ratings": 5,
 		"language": "English",
-		"instructor": "",
-		"about": ""
+		"instructor": "Kashif Ali",
+		"about": "Great for both beginners and advanced level, course prepares you for a Linux Administrator job.",
+		"overview1": "realize the potential of the Linux command line.",
+		"overview2": "navigating the Linux Filesystem.",
+		"overview3": "Design and build a tamper-proof blockchain to store any kind of data"
 	}
 ]
