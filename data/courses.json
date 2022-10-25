@@ -1,9 +1,10 @@
 [
 	{
 		"id": "6356b783a0b3c4b1b1aefa3d",
-		"title": "The Complete 2022 Web Development Bootcamp",
+		"topic": "Web Development",
+		"title": "Web Development Bootcamp",
 		"price": "5,005.28",
-		"picture": "http://placehold.it/32x32",
+		"picture": "https://img.freepik.com/free-vector/web-development-concept-website-optimization-web-page-interface-design-coding-testing-site-internet-modern-technology-idea-isolated-flat-vector-illustration_613284-2939.jpg?w=740&t=st=1666684362~exp=1666684962~hmac=4c93292e34ebfa3589f0d536cc3c1a11102a4b71d718d5833bc6be4495bedb0c",
 		"ratings": 4.7,
 		"language": "English",
 		"instructor": "Angela.Yu",
@@ -14,9 +15,11 @@
 	},
 	{
 		"id": "6356b783e6fe1a4da353c088",
+		"topic": "React",
+
 		"title": "React - The Complete Guide",
 		"price": "4,458.53",
-		"picture": "http://placehold.it/32x32",
+		"picture": "https://149611589.v2.pressablecdn.com/wp-content/uploads/2016/09/reactjs.png",
 		"ratings": 5,
 		"language": "English",
 		"instructor": "Maximilian Schwarzmüller",
@@ -27,9 +30,11 @@
 	},
 	{
 		"id": "6356b783b6c4d275629e2fe2",
+		"topic": "Python",
+
 		"title": "Complete Python Programming Course",
 		"price": "7,603.33",
-		"picture": "http://placehold.it/32x32",
+		"picture": "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
 		"ratings": 4,
 		"language": "English",
 		"instructor": "Avinash Jain",
@@ -40,9 +45,11 @@
 	},
 	{
 		"id": "6356b783534415a230f0534f",
+		"topic": "Machine Learning",
+
 		"title": "Machine Learning",
 		"price": "6,271.51",
-		"picture": "http://placehold.it/32x32",
+		"picture": "https://img.freepik.com/free-vector/wireframe-robot-ai-artificial-intelligence-robotic-hand-machine-learning-cyber-mind-domination-concept_127544-852.jpg?w=996&t=st=1666684548~exp=1666685148~hmac=8dfb82e23456698e0bfa09f8bb73485b7dbf6755426b78ab6bac88a07deed3cd",
 		"ratings": 5,
 		"language": "English",
 		"instructor": "Kirill Eremenko",
@@ -53,9 +60,11 @@
 	},
 	{
 		"id": "6356b7832f4d57f5f47100d2",
+		"topic": "Animation",
+
 		"title": "Animation for Illustration",
 		"price": "4,932.02",
-		"picture": "http://placehold.it/32x32",
+		"picture": "https://www.animaster.com/wp-content/uploads/2020/08/landing-page.jpg",
 		"ratings": 4,
 		"language": "English",
 		"instructor": "Libby VanderPloeg",
@@ -66,9 +75,11 @@
 	},
 	{
 		"id": "6356b783877eca39f496399b",
+		"topic": "Blockchain",
+
 		"title": "Blockchain Programming",
 		"price": "5,672.35",
-		"picture": "http://placehold.it/32x32",
+		"picture": "https://www.datasciencecentral.com/wp-content/uploads/2021/11/9755333077.png",
 		"ratings": 4,
 		"language": "English",
 		"instructor": "Levi Barnes",
@@ -79,15 +90,32 @@
 	},
 	{
 		"id": "6356b783477665f6201c87ac",
+		"topic": "Linux",
+
 		"title": "Linux Administration Bootcamp",
 		"price": "4,379.93",
-		"picture": "http://placehold.it/32x32",
+		"picture": "https://cdn.arstechnica.net/wp-content/uploads/2014/03/3216132284_56334efa71_z.jpg",
 		"ratings": 5,
 		"language": "English",
 		"instructor": "Kashif Ali",
 		"about": "Great for both beginners and advanced level, course prepares you for a Linux Administrator job.",
 		"overview1": "realize the potential of the Linux command line.",
 		"overview2": "navigating the Linux Filesystem.",
-		"overview3": "Design and build a tamper-proof blockchain to store any kind of data"
+		"overview3": "explain the Linux Filesystem hierarchy."
+	},
+	{
+		"id": "635797da7ce4cee288256684",
+		"topic": "Game Development",
+
+		"title": "Complete C# Unity Game Developer 2D",
+		"price": "2,128.18",
+		"picture": "https://aava3d.com/wp-content/uploads/2020/10/game-development.jpg",
+		"ratings": 5,
+		"language": "English",
+		"instructor": "Rick Davidson",
+		"about": "Learn Unity in C# & Code Your First Five 2D Video Games for Web, Mac & PC. The Tutorials Cover Tilemap",
+		"overview1": "Be challenged to build the entire game yourself.",
+		"overview2": "Be shown step-by step how to build it.",
+		"overview3": "Be challenged to apply, and re-apply your knowledge regularly."
 	}
 ]
